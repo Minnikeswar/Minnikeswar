@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Minnikeswar
 - 👀 I’m interested in Web Development, Machine learning
 - 🌱 I’m currently learning Machine Learning & Web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Machine learning models and other AI projects
 - 📫 How to reach me LinkedIn :www.linkedin.com/in/minnikeswar-rao-321126511l39
 
 <!---
